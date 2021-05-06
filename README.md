@@ -32,3 +32,5 @@ You need to add Shuffle's path as a search path. I prefer to add the executable 
 
 ``` sudo cp ./target/release/shuffle /usr/local/bin/ ```
 
+## License
+This code uses crates that under MIT license and Apache (2.0) license. 
